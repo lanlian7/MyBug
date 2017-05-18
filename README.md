@@ -1,0 +1,2 @@
+# MyBug
+使用爬虫工具beautifulsoup4爬取网络数据的代码demo
