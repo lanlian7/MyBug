@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//app/Model.py=utf-8
+encoding//app/__init__.py=utf-8
+encoding//app/bug/__init__.py=utf-8
+encoding//app/bug/caipu.py=utf-8
+encoding//app/bug/createQuestionModel.py=utf-8
+encoding//app/bug/foodcontent.py=utf-8
+encoding//app/bug/medicine.py=utf-8
+encoding//app/bug/questionItem.py=utf-8
+encoding//app/bug/tags.py=utf-8
+encoding//app/bug/type.py=utf-8
+encoding//app/bug/typeItem.py=utf-8
+encoding//app/foodcontent.py=utf-8
+encoding//app/save/__init__.py=utf-8
